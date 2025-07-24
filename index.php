@@ -13,8 +13,8 @@
 // level1_4.out
 // level1_5.out 
 
-const INPUT_FILE = 'test/level2_1.in';
-const OUTPUT_FILE = 'test/level2_1.out';
+const INPUT_FILE = 'test/level1_1.in';
+const OUTPUT_FILE = 'test/level1_1.out';
 
 // read input from file
 $input = file(INPUT_FILE, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
